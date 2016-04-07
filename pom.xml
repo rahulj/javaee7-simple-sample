@@ -18,17 +18,17 @@
         </dependency>
     </dependencies>
     <scm>
-        <connection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</connection>
-        <url>https://github.com/javaee-samples/javaee7-simple-sample.git</url>
-        <developerConnection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</developerConnection>
+        <connection>scm:git:https://github.com/rahulj/javaee7-simple-sample.git</connection>
+        <url>https://github.com/rahulj/javaee7-simple-sample.git</url>
+        <developerConnection>scm:git:https://github.com/rahulj/javaee7-simple-sample.git</developerConnection>
         <tag>v1.5</tag>
     </scm>
-    <developers>
-        <developer>
-            <name>Arun Gupta</name>
-            <email>arun.gupta@gmail.com</email>
-        </developer>
-    </developers>
+    <!--<developers>-->
+        <!--<developer>-->
+            <!--<name>Arun Gupta</name>-->
+            <!--<email>arun.gupta@gmail.com</email>-->
+        <!--</developer>-->
+    <!--</developers>-->
     <distributionManagement>
         <repository>
             <id>deployment</id>
